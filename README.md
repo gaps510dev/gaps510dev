@@ -1,4 +1,4 @@
-<h1 align="center">Hello, I'm gaps510</h1>
+<h1 align="center">gaps510</h1>
 <h3 align="center">Software Engineer</h3>
 
 - I’m currently learning **Javascript**
