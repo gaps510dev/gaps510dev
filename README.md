@@ -1,4 +1,6 @@
-<h1 align="center">gaps510</h1>
+<p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Arial&pause=1000&color=F7F7F7&width=120&lines=gaps510dev">
+</p>
 <h3 align="center">Software Engineer</h3>
 
 <ul>
